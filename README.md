@@ -16,4 +16,4 @@ Estudiante de Tecnicatura en Análisis Funcional de Sistemas Informáticos — c
 ![](https://github-profile-trophy.vercel.app/?username=Lurdciano&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Lurdciano&icon=5&color=3)](https://visitcount.itsvg.in)
+
