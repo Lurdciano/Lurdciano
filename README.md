@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de Tecnicatura en Análisis Funcional de Sistemas Informáticos — construyendo software práctico para PYMEs.  <br>📍 Reconquista, Santa Fe — Abierto a prácticas y proyectos freelance.
+Técnico en Análisis Funcional de Sistemas Informáticos — construyendo software práctico para PYMEs.  <br>📍 Reconquista, Santa Fe — Abierto a prácticas y oportunidades laborales.
 
 
 ## 🌐 Socials:
